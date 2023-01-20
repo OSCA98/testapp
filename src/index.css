@@ -1,0 +1,11 @@
+.RecipeList--canvas {
+    width: 60rem;
+    background-color:red;
+}
+
+.Header--canvas {
+    width:100%;
+    height: 5rem;
+    background-color: aliceblue;
+    margin-bottom: 3rem;
+}
